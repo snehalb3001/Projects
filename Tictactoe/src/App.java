@@ -25,7 +25,7 @@ public class App {
         p1.setPlayernameagesymbol("Snehal",17,'X');
         p1.getPlayernameagesymbol();
         Player p2=new Player();
-        p2.setPlayernameagesymbol("Krunal",14,'0');
+        p2.setPlayernameagesymbol("Mohini",14,'0');
         p2.getPlayernameagesymbol();
 
         Game g=new Game(new Player[] {p1,p2}, b);
